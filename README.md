@@ -36,7 +36,7 @@ I'm deeply interested in **Data Science**. As a **Data Science** enthusiast, I a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vs code,Node" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,azure,vs code" />
   </a>
 </p>
 
