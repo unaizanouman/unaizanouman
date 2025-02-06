@@ -3,12 +3,13 @@
 
 
 
-I'm **Unaiza Nouman**, a Computer Science student at Comsats University Islamabad (CUI), currently on my summer break after completing my 3rd semester. My current focus areas are **Web Development** and **Data Visualization**.
-Consistently on the **Dean's Honor** List through all of my three semesters.
+I'm Unaiza Nouman, a Computer Science student at COMSATS University Islamabad (CUI), currently in my 5th semester. My focus areas include Web Development, Data Visualization, and Data Science.
 
-🐧 Proud user of Ubuntu **Linux** | Command line is my playground.
+🎓 Dean's Honor List | Excelling through all my semesters with a strong academic background.
 
-I'm deeply interested in **Data Science**. As a **Data Science** enthusiast, I am on a mission to innovate! 🚀 I am passionate about leveraging data to uncover insights and drive decision-making, and I am dedicated to exploring new techniques and methodologies to advance the field.
+🐧 Proud Ubuntu Linux user | Command line is my playground.
+
+As a Data Science enthusiast, I am on a mission to innovate! 🚀 I am passionate about leveraging data to uncover insights and drive decision-making. I continuously explore new methodologies and technologies to enhance my skills in the field.
 
 
 
