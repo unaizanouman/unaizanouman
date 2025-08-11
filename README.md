@@ -2,19 +2,18 @@
 
 <p align="center">
   I'm <strong>Unaiza Nouman</strong>, a Computer Science student at <strong>COMSATS University Islamabad (CUI)</strong>, currently in my 6th semester.<br>
-  My focus areas include <strong>System Administration</strong>, <strong>Machile Learning/AI </strong>,<strong>Data Visualization</strong>, and <strong>Data Science</strong>.
+  My focus areas include <strong>System Administration</strong>, <strong>Machine Learning / AI</strong>, <strong>Data Visualization</strong>, and <strong>Data Science</strong>.
 </p>
 
 <p align="center">
   🎓 <strong>Dean's Honor List</strong> | Excelling throughout all my semesters with a strong academic background.<br>
   🐧 <strong>Proud Ubuntu Linux user</strong> | Command line is my playground.<br>
-  🚀 <strong>Passionate about using data to drive innovation and insights</strong>.<br>
+  🚀 <strong>Passionate about using data to drive innovation and insights</strong>.
 </p>
 
 <hr>
 
 <h1 align="center">🌐 Connect with Me</h1>
-<hr>
 
 <div align="center">
   <a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
@@ -30,12 +29,18 @@
 
 <hr>
 
-<h3 align="center">🛠Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,scikit-learn,tensorflow,html,css,js,react,nodejs,mongodb,mysql,git,github,cpp,c,java,docker,bash,vscode,linux,azure" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,react,nodejs,mongodb,mysql,git,github,cpp,c,java,docker,bash,vscode,linux,azure" />
+</p>
+
+<hr>
+
+<h3 align="center">Currently Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=keras,huggingface,aws,docker" />
 </p>
 
 <hr>
@@ -54,7 +59,5 @@
 </table>
 
 <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&layout=compact&theme=dark" alt="GitHub Streak" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&layout=compact&theme=dark" alt="GitHub Streak" />
 </div>
