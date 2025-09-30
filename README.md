@@ -32,7 +32,7 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,react,nodejs,mongodb,mysql,git,github,cpp,c,java,docker,bash,vscode,linux,azure" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,html,css,js,react,nodejs,mongodb,mysql,latex,git,github,cpp,c,java,docker,bash,vscode,linux,azure" />
 </p>
 
 <hr>
@@ -40,7 +40,7 @@
 <h3 align="center">Currently Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=keras,huggingface,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,opencv,aws,docker,tensorflow" />
 </p>
 
 <hr>
