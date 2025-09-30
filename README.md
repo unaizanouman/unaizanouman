@@ -40,7 +40,7 @@
 <h3 align="center">Currently Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,opencv,aws,docker,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,opencv,aws,docker" />
 </p>
 
 <hr>
