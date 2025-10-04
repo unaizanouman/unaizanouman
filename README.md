@@ -32,7 +32,7 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,html,css,js,react,nodejs,mongodb,mysql,latex,git,github,cpp,c,java,bash,vscode,linux,azure" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,html,css,js,react,nodejs,mongodb,mysql,latex,git,github,c,java,bash,vscode,linux,azure" />
 </p>
 
 <hr>
