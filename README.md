@@ -14,7 +14,7 @@
 📊 Love building **dashboards & ML models**  
 🤖 Working with **CNNs & Computer Vision**  
 ☁️ Exploring **Cloud + GPUs for AI workloads**  
-🐧 Proud **Ubuntu Linux** user — CLI is my comfort zone
+🐧 Proud **Ubuntu Linux** user — CLI is my comfort zone  
 
 🏆 **Dean’s Honor List** | 💼 **Intern at E-Deviser**
 
@@ -23,9 +23,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/unaizanouman"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/unaizanouman" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:unaizaray@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -33,9 +39,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda" /><br>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda,azure" />
 </p>
 
 ---
@@ -43,8 +47,7 @@
 ## 📊 Data & Visualization
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tableau" />
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tableau,python" />
 </p>
 
 📈 Tableau Dashboards • 📊 Matplotlib • 📉 Seaborn • 📋 Pandas
@@ -55,15 +58,15 @@
 
 ### 😄 Facial Emotion Detection using CNN
 🧠 Deep Learning based emotion classification  
-📷 Uses facial images & CNN architecture  
+📷 Facial image dataset & CNN architecture  
 🛠 TensorFlow, OpenCV, NumPy
 
 ### 📊 Interactive Tableau Dashboards
-📈 Data storytelling & business insights  
-🛠 Tableau, Data Cleaning, Visualization
+📈 Business insights & visual storytelling  
+🛠 Tableau, Data Cleaning, Analytics
 
 ### 🌐 Web & System Projects
-⚙️ Linux Admin • Dockerized Apps • Microservices Basics  
+⚙️ Linux Administration • Dockerized Apps • Microservices Basics  
 🛠 Docker, Linux, Cloud Platforms
 
 ---
@@ -71,26 +74,35 @@
 ## 📚 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,opencv,tensorflow" />
 </p>
 
-☁️ ML Deployment on Cloud  
+☁️ Cloud ML Deployment  
 🤖 Advanced Deep Learning  
 📦 Containerized ML Pipelines
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitInsight
+
+<table align="center">
+<tr>
+<td>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true" />
+</td>
+<td>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaizanouman&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=unaizanouman&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ✨ *From Data to Decisions, from Code to Intelligence*  
-💙 Zenvira | Building the future with AI
+💙 **Zenvira — Building the future with AI**
 
 </div>
