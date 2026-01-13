@@ -1,63 +1,96 @@
-<h1 align="center">Welcome 👋</h1>
-
-<p align="center">
-  I'm <strong>Unaiza Nouman</strong>, a Computer Science student at <strong>COMSATS University Islamabad (CUI)</strong>, currently in my 6th semester.<br>
-  My focus areas include <strong>System Administration</strong>, <strong>Machine Learning / AI</strong>, <strong>Data Visualization</strong>, and <strong>Data Science</strong>.
-</p>
-
-<p align="center">
-  🎓 <strong>Dean's Honor List</strong> | Excelling throughout all my semesters with a strong academic background.<br>
-  🐧 <strong>Proud Ubuntu Linux user</strong> | Command line is my playground.<br>
-  🚀 <strong>Passionate about using data to drive innovation and insights</strong>.
-</p>
-
-<hr>
-
-<h1 align="center">🌐 Connect with Me</h1>
-
 <div align="center">
-  <a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/unaizanouman" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:unaizaray@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
-<hr>
+# Welcome 👋✨  
+## I'm Unaiza Nouman (Zenvira) 💙
 
-<h3 align="center">Languages and Tools</h3>
+🎓 **7th Semester CS Student @ COMSATS University Islamabad (CUI)**  
+🚀 Aspiring **Data Scientist | ML & Deep Learning Enthusiast**
+
+---
+
+### 💎 About Me
+
+🧠 Passionate about turning **data into intelligent systems**  
+📊 Love building **dashboards & ML models**  
+🤖 Working with **CNNs & Computer Vision**  
+☁️ Exploring **Cloud + GPUs for AI workloads**  
+🐧 Proud **Ubuntu Linux** user — CLI is my comfort zone
+
+🏆 **Dean’s Honor List** | 💼 **Intern at E-Deviser**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,html,css,js,react,nodejs,mongodb,mysql,latex,git,github,c,java,bash,vscode,linux,azure" />
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/unaizanouman"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<hr>
+---
 
-<h3 align="center">Currently Learning</h3>
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,opencv,aws,docker" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda" /><br>
+
 </p>
 
-<hr>
+---
 
-<h1 align="center">GitInsight</h1>
+## 📊 Data & Visualization
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaizanouman&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tableau" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&layout=compact&theme=dark" alt="GitHub Streak" />
+📈 Tableau Dashboards • 📊 Matplotlib • 📉 Seaborn • 📋 Pandas
+
+---
+
+## 🚀 Featured Projects
+
+### 😄 Facial Emotion Detection using CNN
+🧠 Deep Learning based emotion classification  
+📷 Uses facial images & CNN architecture  
+🛠 TensorFlow, OpenCV, NumPy
+
+### 📊 Interactive Tableau Dashboards
+📈 Data storytelling & business insights  
+🛠 Tableau, Data Cleaning, Visualization
+
+### 🌐 Web & System Projects
+⚙️ Linux Admin • Dockerized Apps • Microservices Basics  
+🛠 Docker, Linux, Cloud Platforms
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker" />
+</p>
+
+☁️ ML Deployment on Cloud  
+🤖 Advanced Deep Learning  
+📦 Containerized ML Pipelines
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=unaizanouman&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+✨ *From Data to Decisions, from Code to Intelligence*  
+💙 Zenvira | Building the future with AI
+
 </div>
