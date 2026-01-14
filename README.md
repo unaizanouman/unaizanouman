@@ -85,20 +85,18 @@
 
 ## 📈 GitInsight
 
-<table align="center">
-<tr>
-<td>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaizanouman&layout=compact&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaizanouman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
 
 ---
 
