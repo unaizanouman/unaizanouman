@@ -1,106 +1,74 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0ea5e9&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Unaiza+Nouman;Data+Scientist+%7C+ML+Enthusiast;CS+Student+%40+CUI;Building+the+future+with+AI" alt="Typing Animation"/>
+  </a>
+</div>
 
-# Welcome 👋✨  
-## I'm Unaiza Nouman (Zenvira) 💙
-
-🎓 **7th Semester CS Student @ COMSATS University Islamabad (CUI)**  
-🚀 Aspiring **Data Scientist | ML & Deep Learning Enthusiast**
-
----
-
-### 💎 About Me
-
-🧠 Passionate about turning **data into intelligent systems**  
-📊 Love building **dashboards & ML models**  
-🤖 Working with **CNNs & Computer Vision**  
-☁️ Exploring **Cloud + GPUs for AI workloads**  
-🐧 Proud **Ubuntu Linux** user — CLI is my comfort zone  
-
-🏆 **Dean’s Honor List** | 💼 **Intern at E-Deviser**
-
----
-
-## 🌐 Connect With Me
+<h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/unaizanouman" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:unaizaray@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  👋 You can call me <strong>Zenvira</strong>.
+  <br>
+  I'm a <strong>7th Semester CS Student</strong> at <strong>COMSATS (CUI)</strong> and an aspiring <strong>Data Scientist</strong>.
+  <br>
+  I turn raw data into intelligent systems using Deep Learning and Computer Vision.
 </p>
 
----
+<br>
 
-## 🛠️ Languages & Tools
+<p align="left">
+   <strong>Core Competencies:</strong> Data Science, Machine Learning (CNNs), Computer Vision, and Dashboards.
+ <br><br>
+   <strong>Currently Exploring:</strong> Cloud + GPUs for AI workloads, Advanced Deep Learning, and MLOps.
+ <br><br>
+   <strong>Daily Driver:</strong> Proud <strong>Ubuntu Linux</strong> user. The CLI is my comfort zone.
+</p>
+
+<hr>
+
+<h3 align="center">🏆 Achievements & Experience</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda,azure" />
+  <strong>Dean’s Honor List Awardee</strong> | <strong>Intern at E-Deviser</strong><br>
+  <img src="https://img.shields.io/badge/Dean's%20List-Honoree-FFD700?style=for-the-badge&logo=apachespark&logoColor=black" alt="Dean's List"/>
 </p>
 
----
+<hr>
 
-## 📊 Data & Visualization
+<h1 align="center">Connect with Me</h1>
 
+<div align="center">
+  <a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/unaizanouman" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:unaizaray@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<hr>
+
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tableau,python" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda,azure,tableau" />
+  </a>
 </p>
 
-📈 Tableau Dashboards • 📊 Matplotlib • 📉 Seaborn • 📋 Pandas
+<h1 align="center">📊 GitInsight</h1>
 
----
+<div align="center">
+<table>
+  <tr>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaizanouman&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
-
-### 😄 Facial Emotion Detection using CNN
-🧠 Deep Learning based emotion classification  
-📷 Facial image dataset & CNN architecture  
-🛠 TensorFlow, OpenCV, NumPy
-
-### 📊 Interactive Tableau Dashboards
-📈 Business insights & visual storytelling  
-🛠 Tableau, Data Cleaning, Analytics
-
-### 🌐 Web & System Projects
-⚙️ Linux Administration • Dockerized Apps • Microservices Basics  
-🛠 Docker, Linux, Cloud Platforms
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,opencv,tensorflow" />
-</p>
-
-☁️ Cloud ML Deployment  
-🤖 Advanced Deep Learning  
-📦 Containerized ML Pipelines
-
----
-
-## 📈 GitInsight
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unaizanouman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaizanouman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-
----
-
-✨ *From Data to Decisions, from Code to Intelligence*  
-💙 **Zenvira — Building the future with AI**
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unaizanouman&theme=tokyonight&hide_border=true" alt="Unaiza-Streak" /></p>
 </div>
