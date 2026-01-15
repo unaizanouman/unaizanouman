@@ -31,7 +31,7 @@
 <h3 align="center">🏆 Achievements & Experience</h3>
 
 <p align="center">
-  <strong>Dean’s Honor List Awardee</strong> | <strong>Intern at E-Deviser</strong><br>
+  <strong>Dean’s Honor List Awardee</strong> | <strong>Intern at E-Deviser & Fauji Cement Ltd.</strong><br>
   <img src="https://img.shields.io/badge/Dean's%20List-Honoree-FFD700?style=for-the-badge&logo=apachespark&logoColor=black" alt="Dean's List"/>
 </p>
 
