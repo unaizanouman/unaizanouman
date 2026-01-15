@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/unaizanouman" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -49,7 +49,11 @@
   <a href="mailto:unaizaray@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://hashnode.com/@unaizanouman" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </div>
+
 
 <hr>
 
