@@ -60,7 +60,7 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda,azure,tableau" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda,azure,tableau,huggingface" />
   </a>
 </p>
 
