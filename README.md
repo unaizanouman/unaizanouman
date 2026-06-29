@@ -11,7 +11,7 @@
 <p align="center">
   👋 You can call me <strong>Zenvira</strong>.
   <br>
-  I'm a <strong>7th Semester CS Student</strong> at <strong>COMSATS (CUI)</strong> and an aspiring <strong>Data Scientist</strong>.
+  I'm a <strong>Final Semester CS Student</strong> at <strong>COMSATS (CUI)</strong> and an aspiring <strong>Data Scientist</strong>.
   <br>
   I turn raw data into intelligent systems using Deep Learning and Computer Vision.
 </p>
