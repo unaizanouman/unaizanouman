@@ -2,37 +2,45 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=0ea5e9&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Unaiza+Nouman;Data+Scientist+%7C+ML+Enthusiast;CS+Student+%40+CUI;Building+the+future+with+AI" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4000&pause=500&color=0ea5e9&center=true&vCenter=true&width=620&lines=Unaiza+Nouman;AI+%26+Infrastructure+Engineer;Real-Time+Streaming+%7C+Low-Latency+Inference;Distributed+Backends+%26+Microservices" alt="Typing Animation"/>
   </a>
 </div>
 
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  👋 You can call me <strong>Zenvira</strong>.
+  Hi, I'm <strong>Unaiza Nouman</strong>.
   <br>
-  I'm a <strong>Final Semester CS Student</strong> at <strong>COMSATS (CUI)</strong> and an aspiring <strong>Data Scientist</strong>.
+  <strong>AI & Infrastructure & Data Engineer</strong> specializing in <strong>real-time ML inference backends</strong>, <strong>distributed streaming</strong>, and <strong>low-latency media processing</strong>.
   <br>
-  I turn raw data into intelligent systems using Deep Learning and Computer Vision.
+  I architect production-grade pipelines combining speech recognition (ASR), computer vision, and containerized microservices.
 </p>
 
 <br>
 
 <p align="left">
-   <strong>Core Competencies:</strong> Data Science, Machine Learning (CNNs), Computer Vision, and Dashboards.
- <br><br>
-   <strong>Currently Exploring:</strong> Cloud + GPUs for AI workloads, Advanced Deep Learning, and MLOps.
- <br><br>
-   <strong>Daily Driver:</strong> Proud <strong>Ubuntu Linux</strong> user. The CLI is my comfort zone.
+  <strong>🚀 Focus Areas:</strong> Real-Time Voice Agents (Whisper + WebRTC), Multimodal Ingestion (FFmpeg + OpenCV), Distributed ETL & Message Queuing.
+  <br><br>
+  <strong>⚡ Key Deployments:</strong> 
+  <br>
+  • <strong>Irony-Shield:</strong> 24/7 Live Broadcast Surveillance & Compliance AI platform (Sponsored by DEMP / PEMRA).
+  <br>
+  • <strong>Rabtah AI:</strong> Autonomous bi-directional voice agent infrastructure with sub-second STT/LLM pipeline execution.
+  <br><br>
+  <strong>💻 Daily Driver:</strong> Dual-boot <strong>Ubuntu Linux</strong> & CLI environments.
 </p>
 
 <hr>
 
-<h3 align="center">🏆 Achievements & Experience</h3>
+<h3 align="center">🏆 Academic & Engineering Highlights</h3>
 
 <p align="center">
-  <strong>Dean’s Honor List Awardee</strong> | <strong>Intern at E-Deviser & Fauji Cement Ltd.</strong><br>
+  <strong>COMSATS University Islamabad</strong> (BS Computer Science, 3.76 CGPA) | <strong>Dean’s Honor List</strong>
+  <br>
+  <strong>Experience:</strong> Rabtah AI (Full-Stack & Infrastructure) | Fauji Cement (Data Engineer) | E Deviser (Software Engineer)
+  <br><br>
   <img src="https://img.shields.io/badge/Dean's%20List-Honoree-FFD700?style=for-the-badge&logo=apachespark&logoColor=black" alt="Dean's List"/>
+  <img src="https://img.shields.io/badge/CGPA-3.76%2F4.00-0ea5e9?style=for-the-badge&logoColor=white" alt="CGPA"/>
 </p>
 
 <hr>
@@ -40,7 +48,7 @@
 <h1 align="center">Connect with Me</h1>
 
 <div align="center">
-  <a href="https://linkedin.com/in/unaiza-nouman-633a2928b" target="_blank">
+  <a href="https://www.linkedin.com/in/unaiza-nouman-2j9u0n6e" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/unaizanouman" target="_blank">
@@ -54,13 +62,12 @@
   </a>
 </div>
 
-
 <hr>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Core Stack & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,mongodb,tensorflow,pytorch,opencv,linux,docker,aws,kubernetes,git,github,vscode,anaconda,azure,tableau,huggingface" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,react,postgres,sqlite,mongodb,docker,githubactions,linux,bash,opencv,pytorch,tensorflow,huggingface,git,github,vscode,tableau" />
   </a>
 </p>
 
