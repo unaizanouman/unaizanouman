@@ -67,7 +67,7 @@
 <h3 align="left">🛠 Core Stack & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,react,postgres,sqlite,mongodb,docker,githubactions,linux,bash,opencv,pytorch,tensorflow,huggingface,git,github,vscode,tableau" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,react,postgres,sqlite,mongodb,docker,kubernetes,githubactions,linux,bash,opencv,pytorch,tensorflow,cloudflare,git,github,gitlab,grafana,vscode,ai,c,cs,cpp,css,html,java,js,latex" />
   </a>
 </p>
 
